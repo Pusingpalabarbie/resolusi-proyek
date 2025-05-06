@@ -2,3 +2,4 @@ RESOLUSI BISNIS TOKO ONLINE
   1.Header dengan nama toko
   2.Kisi produk dengan contoh produk (3-4 item) dengan gambar, nama, harga, tombol, tambahkan keranjang
   3.Area keranjang belanja yang menunjukan item yang ditambahkan, total, dan tombol checkout
+  4.Gaya modern
