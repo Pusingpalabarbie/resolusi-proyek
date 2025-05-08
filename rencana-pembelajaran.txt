@@ -1,0 +1,8 @@
+RENCANA PEMBELAJARAN PEMOGRAMAN
+
+-JavaScript
+  *ES6
+  *Framework JavaScript
+-React
+-NodeJs
+-Git
